@@ -1,0 +1,20 @@
+div.main {
+	width: 1000;
+	margin-left: auto;
+  	margin-right: auto;
+}
+div.runnerslist {
+	float:left;
+	width: 20%;
+	background-color: #eeeeff;
+}
+div.graph {
+	float: right;
+	width: 80%;
+	background-color: #eeffee;
+}
+
+canvas {
+	width: 600;
+	height: 400;
+}

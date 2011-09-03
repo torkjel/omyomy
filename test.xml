@@ -1,0 +1,8 @@
+<test>
+	<runners>
+		<runner name="Kalle klovn"/>
+		<runner name="Postmann Patt"/>
+		<runner name="Branmann Sam"/>
+		<runner name="Byggmester Bob"/>
+	</runners>
+</test>
